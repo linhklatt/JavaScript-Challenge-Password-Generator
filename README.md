@@ -18,7 +18,7 @@ For this challenge, I was given finished HTML, CSS code and undone/starter JS Co
    ![Screen shot of my application](./screen-shot/Screenshot2.jpg)
    This screen shot lets the users know that the characters length have to be between 8 and 128 characters
 
-   ![Screen shot of my application](./screen-shot/Screenshot3.jpg)
+   ![Screen shot of my application](./screen-shot/screenshot3.jpg)
    The users will see that they have 4 options to choose for their password to be ( including numbers, lower cases, upper cases, and special characters).
 
    ![Screen shot of my application](./screen-shot/screenshot6.jpg)
